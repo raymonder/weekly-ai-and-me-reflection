@@ -1,5 +1,6 @@
 ---
 name: weekly-ai-and-me-reflection
+version: "0.9"
 description: Use when creating a recurring or on-demand AI collaboration reflection report from recent chat, agent, or coding-session transcripts, especially when the user wants weekly patterns, feedback, rework analysis, improvement actions, and a static dashboard.
 ---
 
@@ -226,4 +227,3 @@ After writing files, respond with only:
 - A one-line data quality note.
 
 Do not restate the report content in chat.
-

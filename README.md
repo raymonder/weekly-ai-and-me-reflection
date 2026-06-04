@@ -1,5 +1,7 @@
 # weekly-ai-and-me-reflection
 
+Version: 0.9
+
 Codex skill for generating a weekly or on-demand AI collaboration reflection report from recent chat, agent, or coding-session transcripts, plus a static dashboard.
 
 ## What It Does
@@ -69,4 +71,3 @@ ai-and-me/
 - Transcript source or exported transcript files.
 - Preferred human/AI display labels.
 - Existing `decisions.md`, if any.
-
